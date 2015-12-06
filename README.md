@@ -49,8 +49,9 @@ Colors:
   -i COLOR, --coloron=COLOR             Select COLOR as LED on color
   -o COLOR, --coloroff=COLOR            Select COLOR as LED off color
   -d COLOR, --datecoloron=COLOR         Select COLOR as LED on color
-```
                                         for date display
+```
+
   Where COLOR is one off these colors:
   gray neonred gold cyan pink blue green darkred none
 
