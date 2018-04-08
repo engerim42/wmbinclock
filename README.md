@@ -42,6 +42,14 @@ For example:
 + + + * * + <- 06
 ```
 
+### Build instructions
+
+gcc will do, under Linux, install following packages:  
+ apt-get install x11proto-core-dev libxpm-dev libxext-dev
+Then run make
+
+### Usage
+
 General Usage: ./wmBinClock OPTIONS
 
 Colors:
@@ -65,5 +73,7 @@ Display mode
 ```
 
 The default is "wmBinClock -i neonred -o gray -d green -m vertical -s on -display 0:0"
+
+### Thanks
 
 Thanks to the frenchie Fleur M. for giving me the idea of this program ;)
