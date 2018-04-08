@@ -45,7 +45,7 @@ For example:
 ### Build instructions
 
 gcc will do, under Linux, install following packages:  
- apt-get install x11proto-core-dev libxpm-dev libxext-dev
+ apt-get install x11proto-core-dev libxpm-dev libxext-dev  
 Then run make
 
 ### Usage
